@@ -1,4 +1,4 @@
-import PropTypes from "prop-types";
+import PropTypes from 'prop-types';
 
 const Experience = (props) => {
   const { date, company, description, skills, geoloc } = props;

@@ -1,7 +1,7 @@
-import "./Header.css";
+import './Header.css';
 
 const Header = () => {
-  const name = "Bastien Krettly";
+  const name = 'Bastien Krettly';
 
   return (
     <header className="Header">
@@ -9,6 +9,6 @@ const Header = () => {
       <h2>Formateur JavaScript</h2>
     </header>
   );
-}
+};
 
 export default Header;
